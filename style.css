@@ -1,0 +1,114 @@
+header {
+	background-color: #d8006c;
+}
+
+#headerSlogans {
+	float: right;
+	width:200px;
+	height:200px;
+}
+#headerLogo {
+	width: 200px;
+	height: 200px;
+}
+#russian {
+	width: 20%;
+	margin-left: 40px;
+	padding: 5px;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	display: table-cell;
+	vertical-align: top;
+}
+
+h1 {
+	color: red;
+}
+#england {
+	width: 20%;
+	margin-right: 50px;
+	padding: 5px;
+	margin-top: 30px;
+	margin-bottom: 50px;
+	display: table-cell;
+	vertical-align: top;
+}
+footer {
+	background-color: #d8006c;
+    text-align: center;
+	clear: both;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+#french {
+	background: url("images/background.gif");
+	width: 50%;
+padding: 5px;
+margin-top: 30px;
+	margin-bottom: 30px;
+display: table-cell;
+	vertical-align: top;
+}
+#award {
+	position: absolute;
+	left: 45%;
+	top: 1%;
+}
+
+#award img {
+	width:200px;
+	height: 200px;
+}
+
+body {
+	background: url("https://ae01.alicdn.com/kf/HTB1hXEdRXXXXXcmXVXXq6xXFXXXO/10x20ft-3x6.jpg");
+}
+
+
+}
+#table {
+	display:table;
+	border-spacing: 10px;
+}
+#row {
+	display:table-row;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+   display: inline-block;
+   height:30px;
+}
+
+li a {
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: red;
+}
+
+a:active {
+ color: green ;
+}
+nav {
+	background-color: #ffff7c;
+}
+#image {
+	width:200px;
+	height: 200px;
+}
+#quiz {
+position: relative;
+
+	left:30%;
+	top:40%;
+}
